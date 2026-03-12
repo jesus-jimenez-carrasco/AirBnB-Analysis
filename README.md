@@ -1,1 +1,5 @@
-# AirBnB-Analysis
+# Análisis de mercado de AirBnB en Madrid
+Este proyecto analiza datos de Airbnb en Madrid para identificar qué factores influyen en el precio de las viviendas y cómo optimizarlo. A través de análisis estadístico, exploración de datos y visualización, se estudian variables como localización, características del alojamiento y perfil del anfitrión para extraer insights accionables. El objetivo es transformar datos en data storytelling claro y decisiones basadas en evidencia que ayuden a maximizar el rendimiento de propiedades en el mercado de alquiler turístico.
+
+# AirBnB-Analysis in Madrid
+This project analyzes Airbnb listings in Madrid to understand which factors influence property pricing and how to optimize it. Using statistical analysis, exploratory data analysis, and visualization, the study explores variables such as location, listing characteristics, and host profiles to extract actionable insights. The goal is to turn raw data into clear data storytelling and evidence-based decisions that help maximize performance in the short-term rental market.
